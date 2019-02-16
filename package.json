@@ -1,5 +1,5 @@
 {
-  "name": "reveal.js",
+  "name": "presentation-por",
   "version": "3.7.0",
   "description": "The HTML Presentation Framework",
   "homepage": "http://revealjs.com",
@@ -23,6 +23,9 @@
     "node": ">=4.0.0"
   },
   "devDependencies": {
+  },
+  "dependencies": {
+    "reveal-ga": "^0.1.0",
     "express": "^4.16.2",
     "grunt": "^1.0.1",
     "grunt-autoprefixer": "^3.0.4",
